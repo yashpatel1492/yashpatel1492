@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing Computer science
+🔭 Developer
 
 
 # 💻 Tech Stack:
